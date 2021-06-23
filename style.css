@@ -7,20 +7,14 @@ h2{
     text-align: center;
     padding: 20px;
 }
-
-
 section{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-
 }
 button{
     border-radius: 10%;
 }
-
-
-
 .foto{
     max-width: 100px;
     width: 100%;
