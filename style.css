@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+*{
+    font-size: 2.5vmax;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+}
+h1{
+    padding-left: 5vh;
+    margin: 0px;
+    font-size: 4.5vmax;
+    font-family: 'Dancing Script', cursive;
+}
+main{
+    border: solid 2px;
+    margin: auto;
+    background-image: linear-gradient(to right,#f78031a8,#fc4932a1,#e6339b9d,#c642ffa2,#5336f5a1);
+    text-align: center;
+    width: 95%;
+    color: black;
+    border-radius: 10px;
+    padding: 3px;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+button{
+    cursor: pointer;
+    border-radius: 10%;
+    margin-bottom: 8px;
+}
+.foto{
+    max-height: 100px;
+    height: 100%;
+    max-width: 100px;
+    width: 100%;
+    padding: 10px; 
+    box-sizing: border-box;     
+}
+#res{
+    text-align: center;
+    margin: 30px;
+}
+#leao, #macaco, #cachorro, #gato{
+   width: 10%;
+}
+figure, #img{
+    border-radius: 40px;
+    padding: 20px;
+    margin: 0px;
+}
+.links{
+    margin-top: 20px;
+    opacity: 85%;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 900;
+    font-size: 1em;
+    text-align: center;
+    
+}
+@media screen and (max-width: 600px){
+ 
+#img{
+    border-radius: 40px;
+    width: 300px;   
+}}
