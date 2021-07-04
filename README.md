@@ -5,7 +5,7 @@
 
 <p><strong>Obs: </strong>O site reproduz os sons dos animais ao clicar.</p>
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 - ✔️ HTML
 - ✔️ CSS
 - ✔️ JavaScript
