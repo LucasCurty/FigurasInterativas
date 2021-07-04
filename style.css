@@ -49,9 +49,9 @@ button{
 #leao, #macaco, #cachorro, #gato{
    width: 10%;
 }
-figure, #img{
+figure, img{
     border-radius: 40px;
-    padding: 20px;
+    padding: 1px;
     margin: 0px;
 }
 .links{
